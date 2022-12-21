@@ -1,0 +1,10 @@
+encrypt:
+  use: true
+  type: aes-128-cbc
+  secretKey:
+cos:
+  type: tencentYun
+  appID: ""
+  secretKey: ""
+  region: ""
+  bucket: ""
